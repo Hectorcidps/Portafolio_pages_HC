@@ -1,13 +1,13 @@
 title: "Portafolio"
 portfolio_link: "https://github.com/Hectorcidps/Portfolio_DA"
-logo: assets/Hector Cid.jpeg
-description: "Mi portafolio de análisis de datos 
-    🔹 Informacion de contacto 
-    contact: 
-        email: "Hectorcidps@gmail.com"
-        LinkedIn: "https://www.linkedin.com/in/hector-cid-del-prado/"
-        Whatsapp: "https://wa.me/525531398543"
-        "
+logo: assets/Foto perfil Hc.png
+description: "Mi portafolio de análisis de datos"
+
+# 🔹 Información de contacto
+contact:
+  email: "Hectorcidps@gmail.com"
+  linkedin: "https://www.linkedin.com/in/hector-cid-del-prado/"
+  whatsapp: "https://wa.me/525531398543"
 theme: jekyll-theme-minimal
 show_downloads: false
 github: 
