@@ -12,17 +12,17 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 * Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018
 
 ## Experiencia laboral 
-1. Junior Consultant IT | VASS Latam | CDMX | Enero 2024 - Abril 2024
+1. Junior Consultant IT|VASS Latam|CDMX|Enero 2024 - Abril 2024
     * Colaboré con el equipo de front-end y QA, identificando incidencias en el website de la Bolsa Mexicana de valores. 
     * Realicé pruebas en el sitio web de la Bolsa Mexicana de Valores (BMV) utilizando Katalon Studio, para identificar y reportar incidencias.
     * Generé reportes de las incidencias en Google Sheets para que el equipo de front-end los solucionará.
     * Colaboré con la creación de la documentación de pruebas aplicadas por el equipo de QA.
 
-2. Quality Assurance (Freelance) | Scale AI | CDMX | Marzo 2022 - Diciembre 2023
+2. Quality Assurance (Freelance)|Scale AI|CDMX|Marzo 2022 - Diciembre 2023
     * Formé parte del equipo de control de calidad encargado de entrenar modelos de inteligencia artificial en la plataforma Remotasks, asegurando respuestas precisas y efectivas a diversas consultas.
     * La mayoría de los proyectos en los que participé se centraron en revisar las respuestas de otros equipos de control de calidad, garantizando soluciones óptimas y mejorando la precisión de los modelos de inteligencia artificial.
 
-3. Auxiliar administrativo | Sistelnetworks | Estado de México | Octubre 2019 - Agosto 2020
+3. Auxiliar administrativo|Sistelnetworks|Estado de México|Octubre 2019 - Agosto 2020
     * Amplia experiencia en atención al cliente, enfocada en brindar un servicio de calidad y satisfacer las necesidades de los usuarios.
     * Auxiliar en los procesos de reclutamiento y selección de personal en puestos generales.
     * Gestión de pedidos, mantenimiento de bases de datos para garantizar la calidad de la información y su actualización constante.
@@ -30,24 +30,28 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 
 <h2> Mi Stack Tecnológico </h2> 
 <p aling="center">
-    <img src="assets/python.png" alt="Python" width="100"/>
+    <img src="assets/python.png" alt="Python" width="90"/>
     <img src="assets/pandas.png" alt="Pandas" width="45"/>
     <img src="assets/excel.png" alt="Excel" width="50"/>
-    <img src="assets/Mysql.png" alt="Mysql" width="70"/>
+    <img src="assets/Mysql.png" alt="Mysql" width="90"/>
     <img src="assets/power BI.png" alt="BI" width="100"/>
 </p> 
 
 ## Proyectos relevantes
 
-### 📊 Optimizar gastos de Marketing en Showz [Link proyecto completo](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
+### 📊 Optimizar gastos de Marketing en Showz [(Link proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
 
 El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.
 
 El proyecto se desarrolló en tres fases:
-
 * Preprocesamiento de datos: Limpieza y preparación.
+![Grafica_Visita](assets/G_visitas.png)
+
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
-![Grafica tasa retencion]("assets/p_marketing.png")
+![Grafica_t_retencion](assets/p_marketing.png)
+![Grafica_t_LTV](assets/LTV.png)
+![Grafica_tCAC](assets/CAC.png)
+
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
