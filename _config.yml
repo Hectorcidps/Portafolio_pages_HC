@@ -3,6 +3,11 @@ logo: assets/Hector Cid.jpeg
 description: "Mi portafolio de análisis de datos"
 theme: jekyll-theme-minimal
 show_downloads: false
-github:
-  is_project_page: false
 url: "https://github.com/Hectorcidps/Portfolio_DA"
+
+# 🔹 Informacion de contacto 
+contact: 
+    email: "Hectorcidps@gmail.com"
+    linkedIn: "https://www.linkedin.com/in/hector-cid-del-prado/"
+    Whatsapp: "https://wa.me/525531398543"
+
