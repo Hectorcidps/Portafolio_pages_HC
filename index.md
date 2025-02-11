@@ -3,22 +3,13 @@
 ## Perfil profesional 
 Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y comprensión de los procesos de negocio. Manejo herramientas como Excel, Python, SQL y Power BI, con enfoque en la manipulación, limpieza y visualización de datos, además de la creación de informes con métricas relevantes. Me destaco por mi capacidad de aprendizaje rápido y por colaborar eficazmente en equipos. Estoy motivado por aplicar mis habilidades, contribuyendo al análisis y presentación de datos para respaldar decisiones estratégicas.
 
-<h2> Mi Stack de" Herramientas</h2> 
-<p aling="center">
-    <img src="assets/python.png" alt="Python" width="50"/>
-    <img src="assets/pandas.png" alt="Pandas" width="50"/>
-    <img src="assets/excel.png" alt="Excel" width="50"/>
-    <img src="assets/Mysql.png" alt="Mysql" width="50"/>
-    <img src="assets/power BI.png" alt="BI" width="50"/>
-</p> 
-
 
 ## Formación educativa 
-* Certificado de formación nivel 3: Analista de datos profesional  SEP - PFBEC  Enero 2025
-* Data Analyst  TripleTen Latam  Mayo 2024 - Diciembre 2024
-* Desarrollador Java Full Stack  Generation México  Mayo 2023 - Julio 2023 
-* Diplomado en estadística y análisis de datos con SPSS  IEFPI  Mayo 2021 - Enero 2022 
-* Licenciado en Psicología (cfr. 12688554)  UNAM  Agosto 2014 - Mayo 2018
+* Certificado de formación nivel 3: Analista de datos profesional|SEP - PFBEC |Enero 2025
+* Data Analyst|TripleTen Latam|Mayo 2024 - Diciembre 2024
+* Desarrollador Java Full Stack|Generation México|Mayo 2023 - Julio 2023 
+* Diplomado en estadística y análisis de datos con SPSS|IEFPI|Mayo 2021 - Enero 2022 
+* Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018
 
 ## Experiencia laboral 
 1. Junior Consultant IT | VASS Latam | CDMX | Enero 2024 - Abril 2024
@@ -37,6 +28,15 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     * Gestión de pedidos, mantenimiento de bases de datos para garantizar la calidad de la información y su actualización constante.
     * Planificación y coordinación logística de eventos para garantizar su éxito y eficiencia operativa.
 
+<h2> Mi Stack Tecnológico </h2> 
+<p aling="center">
+    <img src="assets/python.png" alt="Python" width="100"/>
+    <img src="assets/pandas.png" alt="Pandas" width="45"/>
+    <img src="assets/excel.png" alt="Excel" width="50"/>
+    <img src="assets/Mysql.png" alt="Mysql" width="70"/>
+    <img src="assets/power BI.png" alt="BI" width="100"/>
+</p> 
+
 ## Proyectos relevantes
 
 ### 📊 Optimizar gastos de Marketing en Showz [Link proyecto completo](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
@@ -47,6 +47,7 @@ El proyecto se desarrolló en tres fases:
 
 * Preprocesamiento de datos: Limpieza y preparación.
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
+![Grafica tasa retencion]("assets/p_marketing.png")
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
@@ -56,7 +57,7 @@ El proyecto se desarrolló en tres fases:
 
 Los resultados muestran que, a pesar del alto tráfico y conversión en algunos canales, la empresa sigue enfrentando pérdidas debido a una asignación ineficiente del presupuesto de marketing.
 
-![Grafica tasa de retencion](assets/p_marketing.png)
+
 
 
 
