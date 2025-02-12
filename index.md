@@ -37,11 +37,12 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     <img src="assets/tecnologias/power BI.png" alt="BI" width="100"/>
 </p> 
 
+
 # Proyectos relevantes
 
-## 📊 Optimizar gastos de Marketing en Showz [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
+## 📊 Optimizar gastos de Marketing en Showz [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing) 
 
-El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.
+<h3>El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.</h3>
 
 El proyecto se desarrolló en tres fases:
 * Preprocesamiento de datos: Limpieza y preparación.
