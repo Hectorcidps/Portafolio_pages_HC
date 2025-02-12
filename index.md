@@ -45,22 +45,21 @@ El departamento de analítica de Showz, una empresa de venta de entradas para ev
 
 El proyecto se desarrolló en tres fases:
 * Preprocesamiento de datos: Limpieza y preparación.
-![Grafica_Visita](assets/marketing/G_visitas.png)
+![Grafica_Visita](assets/omarketing/visitas.png)
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
-![Grafica_t_retencion](assets/marketing/p_marketing.png)
-![Grafica_t_LTV](assets/marketing/LTV.png)
-![Grafica_tCAC](assets/marketing/CAC.png)
-![Grafica_romi](assets/marketing/romi.png)
+![Grafica_t_retencion]()
+![Grafica_t_LTV]()
+![Grafica_romi]()
 
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
 - ✅ Canal 9 resultó ser el más eficiente, con alta retención y el menor costo de adquisición
-![Grafica_CAC_fuente](assets/marketing/CAC_fuente.png)
+![Grafica_CAC_fuente]()
 
 - ⚠️ Canal 3 presentó una conversión menor al 20%, altos costos y el peor rendimiento.
-![Grafica_CAC_mayor](assets/marketing/mayor_cac.png)
+![Grafica_CAC_mayor]()
 
 - 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
