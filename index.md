@@ -30,38 +30,104 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 
 <h2> Mi Stack Tecnológico </h2> 
 <p aling="center">
-    <img src="assets/python.png" alt="Python" width="90"/>
-    <img src="assets/pandas.png" alt="Pandas" width="45"/>
-    <img src="assets/excel.png" alt="Excel" width="50"/>
-    <img src="assets/Mysql.png" alt="Mysql" width="90"/>
-    <img src="assets/power BI.png" alt="BI" width="100"/>
+    <img src="assets/tecnologias/python.png" alt="Python" width="90"/>
+    <img src="assets/tecnologias/pandas.png" alt="Pandas" width="45"/>
+    <img src="assets/tecnologias/excel.png" alt="Excel" width="50"/>
+    <img src="assets/tecnologias/Mysql.png" alt="Mysql" width="90"/>
+    <img src="assets/tecnologias/power BI.png" alt="BI" width="100"/>
 </p> 
 
-## Proyectos relevantes
+# Proyectos relevantes
 
-### 📊 Optimizar gastos de Marketing en Showz [(Link proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
+## 📊 Optimizar gastos de Marketing en Showz [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing)
 
 El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.
 
 El proyecto se desarrolló en tres fases:
 * Preprocesamiento de datos: Limpieza y preparación.
-![Grafica_Visita](assets/G_visitas.png)
+![Grafica_Visita](assets/marketing/G_visitas.png)
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
-![Grafica_t_retencion](assets/p_marketing.png)
-![Grafica_t_LTV](assets/LTV.png)
-![Grafica_tCAC](assets/CAC.png)
+![Grafica_t_retencion](assets/marketing/p_marketing.png)
+![Grafica_t_LTV](assets/marketing/LTV.png)
+![Grafica_tCAC](assets/marketing/CAC.png)
+![Grafica_romi](assets/marketing/romi.png)
 
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
-- ✅ Canal 9 resultó ser el más eficiente, con alta retención y el menor costo de adquisición.
+- ✅ Canal 9 resultó ser el más eficiente, con alta retención y el menor costo de adquisición
+![Grafica_CAC_fuente](assets/marketing/CAC_fuente.png)
+
 - ⚠️ Canal 3 presentó una conversión menor al 20%, altos costos y el peor rendimiento.
+![Grafica_CAC_mayor](assets/marketing/mayor_cac.png)
+
 - 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
 Los resultados muestran que, a pesar del alto tráfico y conversión en algunos canales, la empresa sigue enfrentando pérdidas debido a una asignación ineficiente del presupuesto de marketing.
 
+##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
+Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. Se utilizaron modelos de regresión logística, Random Forest y clustering, con el objetivo de identificar patrones de uso y clientes en riesgo de cancelar su suscripción.
+![Resultados_regresion_arbol](assets/gimnasio/regresion_arbol.png)
+
+🔎 Hallazgos clave
+📊 Se identificaron cinco grupos de clientes con diferentes tasas de cancelación.
+✅ Clientes leales (Clusters 3 y 1): Baja tasa de cancelación (3.9% y 9.2%).
+🚨 Clientes en riesgo (Clusters 0 y 2): Cancelaciones moderadas (27.4% y 30.2%).
+⚠️ Clientes críticos (Cluster 4): Alta tasa de cancelación (50.3%).
+
+![Resultados_kmeans_1](assets/gimnasio/kmeans_1.png)
+![Resultados_kmeans_2](assets/gimnasio/kmeans_2.png)
+
+🎯 Estrategias por grupo
+🔹 Clientes leales: Programas de recompensas, descuentos y referidos.
+🔹 Clientes en riesgo: Encuestas de satisfacción, promociones dirigidas y comunicación personalizada.
+🔹 Clientes críticos: Descuentos significativos, pausas de membresía o reembolsos parciales.
+
+📈 Conclusión
+Las estrategias personalizadas según cada cluster pueden mejorar la retención y optimizar los esfuerzos de marketing, enfocándose en mantener clientes leales e interviniendo oportunamente en los segmentos con mayor riesgo de abandono.
+
+
+##  Telecomunicaciones: Identificar operadores ineficaces [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%20final/Proyecto%20Telecomunicaciones)
+
+🔍 Objetivo
+CallMeMaybe busca identificar a los operadores menos eficaces mediante el análisis de llamadas entrantes y salientes, tiempos de espera y llamadas perdidas. Se definieron operadores ineficaces como aquellos con altos tiempos de espera, muchas llamadas entrantes perdidas y pocas llamadas salientes (cuando aplicaba).
+
+
+Se implementaron las siguientes acciones:
+
+* Análisis exploratorio de datos, detectando valores ausentes, duplicados y atípicos.
+* Enriquecimiento de datos con segmentación por meses, semanas y días.
+* Cálculo del número de llamadas entrantes y salientes por operador.
+* Desarrollo de un índice de ineficacia basado en llamadas perdidas, tiempo de espera y volumen de llamadas salientes.
+* Identificación de operadores ineficaces por tipo de plan.
+* Pruebas de hipótesis para evaluar diferencias entre operadores eficientes e ineficientes.
+
+🔎 Hallazgos Clave
+
+* Se encontraron 4900 valores duplicados, pero se decidieron conservar al ser relevantes.
+* Se identificaron 8289 valores ausentes en operator_id, vinculados a llamadas perdidas o salientes sin operador asignado.
+* Las llamadas salientes predominaban sobre las entrantes.
+* Entre las semanas 40 y 45, se observó un pico de actividad operativa.
+* Se segmentaron operadores en tres grupos según su índice de ineficacia:
+* Grupo A (menos eficiente): 31% de ineficacia, 457 minutos de espera.
+* Grupo C (más eficiente): 20% de ineficacia, 137 minutos de espera.
+
+### El operador con mayor ineficiencia registró:
+
+1.  2% de llamadas perdidas
+2. 17 minutos de espera en promedio
+3. Bajo volumen de llamadas salientes
+
+🌐 Pruebas Estadísticas
+
+* La prueba de Kruskal-Wallis indicó diferencias significativas en los tiempos de espera entre grupos.
+* La prueba U de Mann-Whitney confirmó diferencias significativas entre operadores eficaces e ineficaces en términos de tiempo de espera y llamadas perdidas.
+* La distribución de llamadas perdidas resultó no normal, validada con pruebas adicionales.
+
+🌟 Conclusión
+El análisis permitió identificar a los operadores con menor desempeño y establecer criterios objetivos para evaluar la eficiencia operativa. Se recomienda implementar estrategias específicas para reducir tiempos de espera y mejorar la gestión de llamadas entrantes y salientes.
 
 
 
