@@ -30,7 +30,7 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 
 <h2> Mi Stack Tecnológico </h2> 
 <p aling="center">
-    <img src="assets/tecnologias/python.png" alt="Python" width="90"/>
+    <img src="assets/tecnologias/python.png" alt="Python" width="60"/>
     <img src="assets/tecnologias/pandas.png" alt="Pandas" width="45"/>
     <img src="assets/tecnologias/excel.png" alt="Excel" width="50"/>
     <img src="assets/tecnologias/Mysql.png" alt="Mysql" width="90"/>
@@ -45,21 +45,33 @@ El departamento de analítica de Showz, una empresa de venta de entradas para ev
 
 El proyecto se desarrolló en tres fases:
 * Preprocesamiento de datos: Limpieza y preparación.
-![Grafica_Visita](assets/omarketing/visitas.png)
+<p aling="center>
+    <img src="assets/omarketing/visitas.png" alt="Visitas" witdh="100" height="80" >
+</p>
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
-![Grafica_t_retencion]()
-![Grafica_t_LTV]()
-![Grafica_romi]()
+<p aling="center>
+    <img src="assets/omarketing/retencion.png" alt="Tasa retencion">
+</p>
+<p aling="center>
+    <img src="assets/omarketing/ltv.png" alt="LTV">
+</p>
+<p aling="center>
+    <img src="assets/omarketing/romi.png" alt="ROMI">
+</p>
 
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
 - ✅ Canal 9 resultó ser el más eficiente, con alta retención y el menor costo de adquisición
-![Grafica_CAC_fuente]()
+<p aling="center>
+    <img src="assets/omarketing/cac.png" alt="CAC">
+</p>
 
 - ⚠️ Canal 3 presentó una conversión menor al 20%, altos costos y el peor rendimiento.
-![Grafica_CAC_mayor]()
+<p aling="center>
+    <img src="assets/omarketing/fuente.png" alt="CAC Fuente de Adquisicion">
+</p>
 
 - 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
@@ -68,6 +80,9 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 ##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
 Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. Se utilizaron modelos de regresión logística, Random Forest y clustering, con el objetivo de identificar patrones de uso y clientes en riesgo de cancelar su suscripción.
+<p aling="center>
+    <img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="100" height="80" >
+</p>
 ![Resultados_regresion_arbol](assets/gimnasio/regresion_arbol.png)
 
 🔎 Hallazgos clave
