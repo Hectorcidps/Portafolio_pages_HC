@@ -9,7 +9,7 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 * Data Analyst|TripleTen Latam|Mayo 2024 - Diciembre 2024
 * Desarrollador Java Full Stack|Generation México|Mayo 2023 - Julio 2023 
 * Diplomado en estadística y análisis de datos con SPSS|IEFPI|Mayo 2021 - Enero 2022 
-* Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018
+* Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018 <br><br>
 
 ## Experiencia laboral 
 1. Junior Consultant IT|VASS Latam|CDMX|Enero 2024 - Abril 2024
@@ -26,7 +26,7 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     * Amplia experiencia en atención al cliente, enfocada en brindar un servicio de calidad y satisfacer las necesidades de los usuarios.
     * Auxiliar en los procesos de reclutamiento y selección de personal en puestos generales.
     * Gestión de pedidos, mantenimiento de bases de datos para garantizar la calidad de la información y su actualización constante.
-    * Planificación y coordinación logística de eventos para garantizar su éxito y eficiencia operativa.
+    * Planificación y coordinación logística de eventos para garantizar su éxito y eficiencia operativa. <br><br>
 
 <h2> Mi Stack Tecnológico </h2> 
 <p aling="center">
@@ -35,44 +35,37 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     <img src="assets/tecnologias/excel.png" alt="Excel" width="50"/>
     <img src="assets/tecnologias/Mysql.png" alt="Mysql" width="90"/>
     <img src="assets/tecnologias/power BI.png" alt="BI" width="100"/>
-</p> 
-
+</p> <br><br>
 
 # Proyectos relevantes
 
 ## 📊 Optimizar gastos de Marketing en Showz [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing) 
 
-<h3>El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.</h3>
+El departamento de analítica de Showz, una empresa de venta de entradas para eventos, solicitó ayuda para optimizar sus gastos de marketing.
 
 El proyecto se desarrolló en tres fases:
 * Preprocesamiento de datos: Limpieza y preparación.
-<p aling="center>
-    <img src="assets/omarketing/visitas.png" alt="Visitas" witdh="100" height="80" >
-</p>
+
+<img src="assets/omarketing/visitas.png" alt="Visitas" witdh="500" height="200">
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
-<p aling="center>
-    <img src="assets/omarketing/retencion.png" alt="Tasa retencion">
-</p>
-<p aling="center>
-    <img src="assets/omarketing/ltv.png" alt="LTV">
-</p>
-<p aling="center>
-    <img src="assets/omarketing/romi.png" alt="ROMI">
-</p>
+
+<img src="assets/omarketing/retencion.png" alt="Tasa retencion" width="500">
+
+<img src="assets/omarketing/ltv.png" alt="LTV">
+
+<img src="assets/omarketing/romi.png" alt="ROMI">
 
 * Recomendaciones estratégicas: Identificación de oportunidades y áreas de mejora.
 
 📌 Hallazgos clave:
 - ✅ Canal 9 resultó ser el más eficiente, con alta retención y el menor costo de adquisición
-<p aling="center>
-    <img src="assets/omarketing/cac.png" alt="CAC">
-</p>
+
+<img src="assets/omarketing/cac.png" alt="CAC">
 
 - ⚠️ Canal 3 presentó una conversión menor al 20%, altos costos y el peor rendimiento.
-<p aling="center>
-    <img src="assets/omarketing/fuente.png" alt="CAC Fuente de Adquisicion">
-</p>
+
+<img src="assets/omarketing/fuente.png" alt="CAC Fuente de Adquisicion">
 
 - 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
@@ -81,26 +74,23 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 ##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
 Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. Se utilizaron modelos de regresión logística, Random Forest y clustering, con el objetivo de identificar patrones de uso y clientes en riesgo de cancelar su suscripción.
-<p aling="center>
-    <img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="100" height="80" >
-</p>
-![Resultados_regresion_arbol](assets/gimnasio/regresion_arbol.png)
+<img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="100" height="80" >
 
-🔎 Hallazgos clave
-📊 Se identificaron cinco grupos de clientes con diferentes tasas de cancelación.
-✅ Clientes leales (Clusters 3 y 1): Baja tasa de cancelación (3.9% y 9.2%).
-🚨 Clientes en riesgo (Clusters 0 y 2): Cancelaciones moderadas (27.4% y 30.2%).
-⚠️ Clientes críticos (Cluster 4): Alta tasa de cancelación (50.3%).
 
-![Resultados_kmeans_1](assets/gimnasio/kmeans_1.png)
-![Resultados_kmeans_2](assets/gimnasio/kmeans_2.png)
+1. 🔎 Hallazgos clave
+* 📊 Se identificaron cinco grupos de clientes con diferentes tasas de cancelación.
+* ✅ Clientes leales (Clusters 3 y 1): Baja tasa de cancelación (3.9% y 9.2%).
+* 🚨 Clientes en riesgo (Clusters 0 y 2): Cancelaciones moderadas (27.4% y 30.2%).
+* ⚠️ Clientes críticos (Cluster 4): Alta tasa de cancelación (50.3%).
+<img src="assets/gimnasio/kmeans_1.png" alt="Regresion y Arbol">
+<img src="assets/gimnasio/kmeans_2.png" alt="Regresion y Arbol">
 
-🎯 Estrategias por grupo
-🔹 Clientes leales: Programas de recompensas, descuentos y referidos.
-🔹 Clientes en riesgo: Encuestas de satisfacción, promociones dirigidas y comunicación personalizada.
-🔹 Clientes críticos: Descuentos significativos, pausas de membresía o reembolsos parciales.
+2. 🎯 Estrategias por grupo
+* Clientes leales: Programas de recompensas, descuentos y referidos.
+*  Clientes en riesgo: Encuestas de satisfacción, promociones dirigidas y comunicación personalizada.
+*  Clientes críticos: Descuentos significativos, pausas de membresía o reembolsos parciales.
 
-📈 Conclusión
+3. 📈 Conclusión
 Las estrategias personalizadas según cada cluster pueden mejorar la retención y optimizar los esfuerzos de marketing, enfocándose en mantener clientes leales e interviniendo oportunamente en los segmentos con mayor riesgo de abandono.
 
 
@@ -113,6 +103,7 @@ CallMeMaybe busca identificar a los operadores menos eficaces mediante el análi
 Se implementaron las siguientes acciones:
 
 * Análisis exploratorio de datos, detectando valores ausentes, duplicados y atípicos.
+<img src="assets/operador/atipicos.png" alt="Valores atipicos">
 * Enriquecimiento de datos con segmentación por meses, semanas y días.
 * Cálculo del número de llamadas entrantes y salientes por operador.
 * Desarrollo de un índice de ineficacia basado en llamadas perdidas, tiempo de espera y volumen de llamadas salientes.
@@ -123,17 +114,22 @@ Se implementaron las siguientes acciones:
 
 * Se encontraron 4900 valores duplicados, pero se decidieron conservar al ser relevantes.
 * Se identificaron 8289 valores ausentes en operator_id, vinculados a llamadas perdidas o salientes sin operador asignado.
+<img src="assets/operador/ausentes.png" alt="Valores ausentes y duplicados" witdh="100" height="80">
 * Las llamadas salientes predominaban sobre las entrantes.
+<img src="assets/operador/tendencia.png" alt="Tendencia de llamadas">
 * Entre las semanas 40 y 45, se observó un pico de actividad operativa.
+<img src="assets/operador/semanal.png" alt="Llamadas entrantes por semana">
 * Se segmentaron operadores en tres grupos según su índice de ineficacia:
 * Grupo A (menos eficiente): 31% de ineficacia, 457 minutos de espera.
 * Grupo C (más eficiente): 20% de ineficacia, 137 minutos de espera.
+<img src="assets/operador/grupos.png" alt="Indice de ineficacia por grupo">
 
 ### El operador con mayor ineficiencia registró:
 
 1.  2% de llamadas perdidas
 2. 17 minutos de espera en promedio
 3. Bajo volumen de llamadas salientes
+<img src="assets/operador/indice.png" alt="Indice por operados">
 
 🌐 Pruebas Estadísticas
 
