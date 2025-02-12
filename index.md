@@ -57,7 +57,7 @@ El departamento de analítica de Showz, una empresa de venta de entradas para ev
 El proyecto se desarrolló en tres fases:
 1. Preprocesamiento de datos: Limpieza y preparación.
 
-<img src="assets/omarketing/visitas.png" alt="Visitas" witdh="600" height="250">
+<img src="assets/omarketing/visitas.png" alt="Visitas" witdh="600" height="210">
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
 
@@ -88,6 +88,7 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 ##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
 Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. Se utilizaron modelos de regresión logística, Random Forest y clustering, con el objetivo de identificar patrones de uso y clientes en riesgo de cancelar su suscripción.
+
 <img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="400" height="180" >
 
 
