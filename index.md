@@ -1,10 +1,12 @@
 # ¡Hola, bienvenido a mi portfolio! 👋  
-
+<br>
+<br>
 
 ## Perfil profesional 
 Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y comprensión de los procesos de negocio. Manejo herramientas como Excel, Python, SQL y Power BI, con enfoque en la manipulación, limpieza y visualización de datos, además de la creación de informes con métricas relevantes. Me destaco por mi capacidad de aprendizaje rápido y por colaborar eficazmente en equipos. Estoy motivado por aplicar mis habilidades, contribuyendo al análisis y presentación de datos para respaldar decisiones estratégicas.
-
-
+<br>
+<br>
+<br>
 
 ## Formación educativa 
 * Certificado de formación nivel 3: Analista de datos profesional|SEP - PFBEC |Enero 2025
@@ -12,9 +14,9 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 * Desarrollador Java Full Stack|Generation México|Mayo 2023 - Julio 2023 
 * Diplomado en estadística y análisis de datos con SPSS|IEFPI|Mayo 2021 - Enero 2022 
 * Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## Experiencia laboral 
 1. Junior Consultant IT|VASS Latam|CDMX|Enero 2024 - Abril 2024
@@ -32,10 +34,9 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     * Auxiliar en los procesos de reclutamiento y selección de personal en puestos generales.
     * Gestión de pedidos, mantenimiento de bases de datos para garantizar la calidad de la información y su actualización constante.
     * Planificación y coordinación logística de eventos para garantizar su éxito y eficiencia operativa.
-
-
-
-
+<br>
+<br>
+<br>
 <h2> Mi Stack Tecnológico </h2> 
 <p aling="center">
     <img src="assets/tecnologias/python.png" alt="Python" width="57"/>
@@ -44,9 +45,9 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
     <img src="assets/tecnologias/Mysql.png" alt="Mysql" width="90"/>
     <img src="assets/tecnologias/power BI.png" alt="BI" width="100"/>
 </p>
-
-
-
+<br>
+<br>
+<br>
 
 # Proyectos relevantes
 
@@ -81,9 +82,9 @@ El proyecto se desarrolló en tres fases:
 - 💡 Se recomienda redistribuir el presupuesto hacia canales más rentables y reducir la inversión en aquellos con pérdidas.
 
 Los resultados muestran que, a pesar del alto tráfico y conversión en algunos canales, la empresa sigue enfrentando pérdidas debido a una asignación ineficiente del presupuesto de marketing.
-
-
-
+<br>
+<br>
+<br>
 
 ##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
@@ -108,9 +109,9 @@ Se analizó el comportamiento de los clientes de Model Fitness para diseñar est
 
 3. 📈 Conclusión
 Las estrategias personalizadas según cada cluster pueden mejorar la retención y optimizar los esfuerzos de marketing, enfocándose en mantener clientes leales e interviniendo oportunamente en los segmentos con mayor riesgo de abandono.
-
-
-
+<br>
+<br>
+<br>
 
 ##  Telecomunicaciones: Identificar operadores ineficaces [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%20final/Proyecto%20Telecomunicaciones)
 
@@ -167,8 +168,9 @@ Se implementaron las siguientes acciones:
 
 5. 🌟 Conclusión
 El análisis permitió identificar a los operadores con menor desempeño y establecer criterios objetivos para evaluar la eficiencia operativa. Se recomienda implementar estrategias específicas para reducir tiempos de espera y mejorar la gestión de llamadas entrantes y salientes.
-
-
+<br>
+<br>
+<br>
 
 ## Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi [portafolio completo](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
 
