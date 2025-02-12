@@ -1,6 +1,5 @@
 # ¡Hola, bienvenido a mi portfolio! 👋  
 <br>
-<br>
 
 ## Perfil profesional 
 Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y comprensión de los procesos de negocio. Manejo herramientas como Excel, Python, SQL y Power BI, con enfoque en la manipulación, limpieza y visualización de datos, además de la creación de informes con métricas relevantes. Me destaco por mi capacidad de aprendizaje rápido y por colaborar eficazmente en equipos. Estoy motivado por aplicar mis habilidades, contribuyendo al análisis y presentación de datos para respaldar decisiones estratégicas.
@@ -14,9 +13,9 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 * Desarrollador Java Full Stack|Generation México|Mayo 2023 - Julio 2023 
 * Diplomado en estadística y análisis de datos con SPSS|IEFPI|Mayo 2021 - Enero 2022 
 * Licenciado en Psicología (cfr. 12688554)| FES Zaragoza UNAM|Agosto 2014 - Mayo 2018
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
 
 ## Experiencia laboral 
 1. Junior Consultant IT|VASS Latam|CDMX|Enero 2024 - Abril 2024
@@ -47,9 +46,9 @@ Analista de datos, con experiencia en Análisis Exploratorio de Datos (EDA) y co
 </p>
 <br>
 <br>
-<br>
 
 # Proyectos relevantes
+<br>
 
 ## 📊 Optimizar gastos de Marketing en Showz [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%206%20-%20Optimizar%20los%20gastos%20de%20Marketing) 
 
@@ -58,7 +57,7 @@ El departamento de analítica de Showz, una empresa de venta de entradas para ev
 El proyecto se desarrolló en tres fases:
 1. Preprocesamiento de datos: Limpieza y preparación.
 
-<img src="assets/omarketing/visitas.png" alt="Visitas" witdh="450" height="250">
+<img src="assets/omarketing/visitas.png" alt="Visitas" witdh="600" height="250">
 
 * Análisis y métricas clave: Evaluación de conversión, retención, LTV, CAC y ROMI.
 
@@ -89,7 +88,7 @@ Los resultados muestran que, a pesar del alto tráfico y conversión en algunos 
 ##  Optimización de la Retención en Gimnasio Model Fitness [(Enlace proyecto completo)](https://github.com/Hectorcidps/Portfolio_DA/tree/master/Proyecto%2010%20-%20Cadena%20de%20gimnasios%20Model%20Fitness)
 
 Se analizó el comportamiento de los clientes de Model Fitness para diseñar estrategias que reduzcan la pérdida de usuarios. Se utilizaron modelos de regresión logística, Random Forest y clustering, con el objetivo de identificar patrones de uso y clientes en riesgo de cancelar su suscripción.
-<img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="450" height="250" >
+<img src="assets/gimnasio/regresion_arbol.png" alt="Regresion y Arbol" witdh="400" height="180" >
 
 
 1. 🔎 Hallazgos clave
@@ -108,7 +107,7 @@ Se analizó el comportamiento de los clientes de Model Fitness para diseñar est
 -  Clientes críticos: Descuentos significativos, pausas de membresía o reembolsos parciales.
 
 3. 📈 Conclusión
-Las estrategias personalizadas según cada cluster pueden mejorar la retención y optimizar los esfuerzos de marketing, enfocándose en mantener clientes leales e interviniendo oportunamente en los segmentos con mayor riesgo de abandono.
+- Las estrategias personalizadas según cada cluster pueden mejorar la retención y optimizar los esfuerzos de marketing, enfocándose en mantener clientes leales e interviniendo oportunamente en los segmentos con mayor riesgo de abandono.
 <br>
 <br>
 <br>
@@ -136,7 +135,7 @@ Se implementaron las siguientes acciones:
 * Se encontraron 4900 valores duplicados, pero se decidieron conservar al ser relevantes.
 * Se identificaron 8289 valores ausentes en operator_id, vinculados a llamadas perdidas o salientes sin operador asignado.
 
-<img src="assets/operador/ausentes.png" alt="Valores ausentes y duplicados" witdh="450" height="250">
+<img src="assets/operador/ausentes.png" alt="Valores ausentes y duplicados" witdh="520" height="250">
 
 * Las llamadas salientes predominaban sobre las entrantes.
 
@@ -172,6 +171,6 @@ El análisis permitió identificar a los operadores con menor desempeño y estab
 <br>
 <br>
 
-## Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi [portafolio completo](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
+## Si quieres conocer más sobre mi trabajo en análisis de datos te invito a visitar mi portafolio completo en [GitHub](https://github.com/Hectorcidps/Portfolio_DA/tree/master)
 
 
